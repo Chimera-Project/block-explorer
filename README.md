@@ -1,5 +1,5 @@
-# Pixel-Blockchain-Explorer
-Block explorer for Pixel CryptoNote based cryptocurrency.
+# Chimera-Blockchain-Explorer
+Block explorer for Chimera CryptoNote based cryptocurrency.
 
 #### Installation
 
@@ -11,12 +11,9 @@ Block explorer for Pixel CryptoNote based cryptocurrency.
 
 
 ### Development
-Devs:
-    @Dak
-    @Intensity
+The Chimera Devs
 
-Donate: [PXL] PixELSKKnxr7FrgqybAhMJL2oVU2JQTzwXiJFWU564ErVZ5qV6Ncg5CZ2hACNcRWHWjCUpeGtjq7hZBVBeoV2GCVea6RBJQB6dG
 
 ### Note
 
-A lot of this code is from the great Karbovanets/Karbowanec-Blockchain-Explorer
+Derived from the Pixel coin explorer that was forked from The Karbovanets/Karbowanec-Blockchain-Explorer.
