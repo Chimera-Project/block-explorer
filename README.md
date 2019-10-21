@@ -3,7 +3,7 @@ Block explorer for Chimera CryptoNote based cryptocurrency.
 
 #### Installation
 
-1) It takes data from daemon turtlecoind. It should be accessible from the Internet. Run turtlecoind with open port as follows:
+1) It takes data from daemon chimerad. It should be accessible from the Internet. Run chimerad with open port as follows:
 ```bash
 ./chimerad --enable-cors="*" --enable-blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=11246
 ```
