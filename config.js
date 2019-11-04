@@ -9,7 +9,7 @@ var api = 'http://207.148.77.219:11246';
 	// pools stats by MainCoins
 	var networkStat = {
 	 "CMRA": [
-		[""]
+		["http://54.172.240.25"]
 	 ]
 	};
 	
